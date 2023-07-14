@@ -1,5 +1,4 @@
 package org.example.war;
 
-public class War {
-
+public class Viking {
 }
